@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 class VariantInfo {
   VariantInfo({
     this.bitrate,
